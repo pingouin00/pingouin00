@@ -1,0 +1,210 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px -3px;
+}
+
+.titre1{
+    color: blue;
+    font-size: 1rem;
+    font-weight: 100px;
+}
+@media screen and (max-width: 400px)
+    {
+        .titre1{
+            color: blue;
+            font-size: 1rem;
+            font-weight: 100px;
+        }
+    }
+@media screen and (min-width: 400px) and (max-width: 1000px)
+{
+    .titre1{
+        color: lightpink;
+        font-size: 1rem;
+        font-weight: 100px;
+    }
+}
+ 
+
+/*h6{
+    color: crimson;
+    font-size: 12px;
+    font-weight: 200px;
+    font-weight: 700px;
+}*/
+.titre2{
+    color: crimson;
+    font-size: 12px;
+    font-weight: 200px;
+    font-weight: 700px;
+}/*
+p{
+    color: darkkhaki;
+    font-size: 1rem;
+    font-weight: 800px;
+}*/
+@media screen and (max-width: 400px)
+    {
+        .titre2{
+            color: crimson;
+            font-size: 12px;
+            font-weight: 200px;
+            font-weight: 700px;
+        }
+    }
+
+
+@media screen and (min-width: 400px) and (max-width: 1000px)
+    {
+        .titre2{
+            color: crimson;
+            font-size: 12px;
+            font-weight: 200px;
+            font-weight: 700px;
+        }
+    }
+   
+
+.titre3{
+    color: blueviolet;
+    font-size: 1rem;
+    font-weight: 800px;
+}
+@media screen and (max-width: 400px)
+    {
+        .titre3{
+            color: blueviolet;
+            font-size: 1rem;
+            font-weight: 800px;
+        }
+    }
+
+@media screen and (min-width: 400px) and (max-width: 1000px)
+{
+    .titre3{
+        color: blueviolet;
+        font-size: 1rem;
+        font-weight: 800px;
+    }
+}
+   
+
+.titre4{
+    color: chartreuse;
+    font-size: 1rem;
+    font-weight: 800px;
+}
+@media screen and (max-width: 400px)
+    {
+        .titre4{
+            color: chartreuse;
+            font-size: 1rem;
+            font-weight: 800px;
+        }
+    }
+    @media screen and (min-width: 400px) and (max-width: 1000px)
+    {
+        .titre5{
+
+            color: coral;
+            font-size: 1rem;
+            font-weight: 800px;
+        }
+    }
+   
+
+
+/*
+span{
+
+    color: darkcyan;
+    font-size: 1.5px;
+}*/
+.titre5{
+
+    color: coral;
+    font-size: 1rem;
+    font-weight: 800px;
+}
+@media screen and (max-width: 400px)
+    {
+        .titre5{
+
+            color: coral;
+            font-size: 1rem;
+            font-weight: 800px;
+        }
+    }
+    @media screen and (min-width: 400px) and (max-width: 1000px)
+    {
+        .titre5{
+
+            color: coral;
+            font-size: 1rem;
+            font-weight: 800px;
+        }
+    }
+   
+
+.titre6{
+
+    color: darkgreen;
+    font-size: 15px;
+    font-weight: 800px;
+}
+@media screen and (max-width: 400px)
+    {
+        .titre6{
+
+            color: darkgreen;
+            font-size: 15px;
+            font-weight: 800px;
+        }
+    }
+    @media screen and (min-width: 400px) and (max-width: 1000px)
+    {
+        .titre6{
+
+            color: aquamarine;
+            font-size: 15px;
+            font-weight: 800px;
+        }
+    }
+   
+
+.titre7{
+
+    color: darkmagenta;
+    font-size: 15px;
+    font-weight: 800px;
+}
+@media screen and (max-width: 400px)
+    {
+        .titre7{
+
+            color: darkmagenta;
+            font-size: 15px;
+            font-weight: 800px;
+        }
+    }
+@media screen and (min-width: 400px) and (max-width: 1000px)
+{
+    .titre7{
+
+        color: darkmagenta;
+        font-size: 15px;
+        font-weight: 800px;
+    }
+}
+   
+
+
+/*@media screen and (max-width: 400px)
+    {
+        h1{
+            font-size: 1rem;
+        }
+    }*/
+    
